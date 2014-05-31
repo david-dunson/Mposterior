@@ -1,0 +1,6 @@
+S3method(plot,Mposterior)
+S3method(print,Mposterior)
+S3method(summary,Mposterior)
+export(findWeiszfeldMedian)
+useDynLib(Mposterior)
+import(Rcpp)

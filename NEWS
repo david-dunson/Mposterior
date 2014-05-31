@@ -1,0 +1,6 @@
+o Mposterior (0.1.1)
+
+    * ‘Mposterior' package released. 
+    * findWeiszfeldMedian is the main function that needs to be used for finding M-posterior.
+    * Mposterior object can be printed, summarized, and plotted.	
+	

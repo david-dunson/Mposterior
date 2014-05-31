@@ -1,0 +1,10 @@
+Mposterior: R package for Robust and Scalable Bayes via a Median of Subset Posterior Measures
+
+Mposterior package facilitates easy estimation of a median of subset posterior measures called M-posterior. We assume that the user already has samples from the subset posterior measures. 
+
+For theoretical details and practical motivation for M-posterior, please see Minsker et al. 2014.
+
+Stanislav Minsker, Sanvesh Srivastava, Lizhen Lin, and David B. Dunson (2014). Robust and Scalable Bayes via a Median of Subset Posterior Measures. http://arxiv.org/abs/1403.2660
+
+--
+Maintainer: Sanvesh Srivastava <sanvesh@gmail.com>

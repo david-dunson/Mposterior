@@ -1,0 +1,14 @@
+citHeader("To cite Mposterior in publications use:")
+
+citEntry(entry = "Article",
+  title        = "Robust and Scalable Bayes via a Median of Subset Posterior Measures",
+  author       = personList(as.person("Stansilav Minsker"),
+                   as.person("Sanvesh Srivastava"),
+                   as.person("Lizhen Lin"),
+                   as.person("David B. Dunson")),
+  journal      = "arXiv",
+  year         = "2014",
+  url          = "http://arxiv.org/abs/1403.2660",
+
+  textVersion  = paste("Stanislav Minsker, Sanvesh Srivastava, Lizhen Lin, and David B. Dunson (2014). Robust and Scalable Bayes via a Median of Subset Posterior Measures. http://arxiv.org/abs/1403.2660.")
+)
