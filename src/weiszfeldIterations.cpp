@@ -199,12 +199,14 @@ Rcpp::List findWeiszfeldMedian (Rcpp::List subsetAtomsList, double sigma, unsign
     normsOld = norms;
   }  
   
+  if (jj < maxit) histWts = histWts.cols(0, jj);
+
   Rcpp::List result = List::create(Named("natoms", natoms),
                                    Named("weiszfeldWts", weiszfeldWts),
-                                   Named("historyWeiszfeldWts", histWts.cols(0, jj)),
+                                   Named("historyWeiszfeldWts", histWts),
                                    Named("medianAtoms", medianEmpiricalMeasureAtoms)
                                    );  
-
+    
   return result; 
 }
 

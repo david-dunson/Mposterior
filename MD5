@@ -1,6 +1,6 @@
-4f0b52eb5e173afb26aa5e4eabfab578 *DESCRIPTION
+1c9a8d73ea949f6cb304078dba9679e2 *DESCRIPTION
 4a3f3e60cf98f58d5880dc55db82070a *NAMESPACE
-c4b839be94bd1dba905d704c39b9f3b3 *NEWS
+bf1ed9e0536c3172bb6140e35aeb0e88 *NEWS
 b3a1dc002f0cc7fc6feda0ee45e2b696 *R/Mposterior-package.R
 9253967b29079496c786922d690229a2 *R/find-weiszfeld-median.R
 c0f0d7d5ef427ee7df7420217ad8fb1c *R/zzz.R
@@ -11,5 +11,6 @@ c0f0d7d5ef427ee7df7420217ad8fb1c *R/zzz.R
 22a01a8f775413a6840bbfe939ac29b4 *man/plot.Mposterior.Rd
 ca10cfdee84b436e4b1e634592ac637f *man/print.Mposterior.Rd
 7f8254df5fa54b05d820aa910ce1b848 *man/summary.Mposterior.Rd
+1692467c9de59807e4b73ea1d90e38fe *src/Makevars.win
 226097b0aae92adf5374bdae5246b6b2 *src/RcppExports.cpp
-de13cb7331c9d489ed1fa2d5b6b72402 *src/weiszfeldIterations.cpp
+c2122a257c78cb0bdd3412439d20d342 *src/weiszfeldIterations.cpp
